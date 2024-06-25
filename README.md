@@ -1,15 +1,3 @@
-#  Title
+# Parallelization of Quicksort Algorithm
 
-About the  project
-
-```python
-print("Helo")
-```
-
-## Title
-
-- test
-
-###  Title
-
-**Test Bold**
+Please read the PDF file
